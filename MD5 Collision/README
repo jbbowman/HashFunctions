@@ -1,7 +1,5 @@
 # MD5 Collision
 
-File includes:
-
 program.c - contains two arrays and a main function which states that as long as the two arrays are the same, the program will run normally. However, if the arrays are different, the program will execute a completely different operation.
   
 CollisionBlockP and CollisionBlockQ - Collision blocks that, when appended to a compiled program.c, produce the same MD5 hash sum
