@@ -2,8 +2,8 @@
 
 File includes:
 
-•	program.c - contains two arrays and a main function which states that as long as the two arrays are the same, the program will run normally. However, if the arrays are different, the program will execute a completely different operation.
+program.c - contains two arrays and a main function which states that as long as the two arrays are the same, the program will run normally. However, if the arrays are different, the program will execute a completely different operation.
   
-•	CollisionBlockP and CollisionBlockQ - Collision blocks that, when appended to a compiled program.c, produce the same MD5 hash sum
+CollisionBlockP and CollisionBlockQ - Collision blocks that, when appended to a compiled program.c, produce the same MD5 hash sum
 
-•	program1 and program2 - Files with different operations that produce the same MD5 hash sum
+program1 and program2 - Files with different operations that produce the same MD5 hash sum
